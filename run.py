@@ -1,0 +1,2 @@
+from vnstock import register_user
+register_user(api_key='vnstock_771e2832031e0a7904494852f79c6b3c') 
